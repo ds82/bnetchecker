@@ -8,7 +8,7 @@ Checkout git repo and run maven to build the package:
 
 mvn package
 
-Maven will fetch the required dependancies and build the JAR file. Afterwards you can run the tool like this:
+Maven will fetch the required dependencies and build the JAR file. Afterwards you can run the tool like this:
 
 java -jar target/bnetchecker-0.0.1-SNAPSHOT.jar <BATTLE.NET-Account> <PASSWORD>
 
